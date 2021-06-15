@@ -1,4 +1,8 @@
 # keystone-system
+
+**The Keystone hardware wallet is simply relaunched from the Cobo Vault branding so both the code base and infrastructure are the same. For more info please checkout [here](https://blog.keyst.one/leaving-cobo-to-continue-the-cobo-vault-legacy-29bb2f8f026e)**
+
+
 Keystone is an air-gapped, open source hardware wallet that uses completely transparent QR code data transmissions. Visit the [Keystone official website](https://keyst.one/)  to learn more about Keystone.
 
 You can also follow [@Keystone](https://twitter.com/KeystoneWallet) on Twitter.
@@ -8,7 +12,6 @@ You can also follow [@Keystone](https://twitter.com/KeystoneWallet) on Twitter.
 ## Contents
 
 - [Introduction](#introduction)
-- [Issues and PRs](#issues-and-prs)
 - [License](#license)
 
 
@@ -26,9 +29,6 @@ Therefore this open source code cannot be compiled. However, we can share this p
 Since the size of a single repo on github cannot exceed 5G, we put the code on AWS. You can access the code through this link:
 [keystone-system](https://keyst.one/contents/keystone_system.tar.gz)
 
-
-## Issues and PRs
-Please submit any issues [here](https://github.com/KeystoneHQ/keystone-system/issues). PRs are also welcome!
 
 ## License
 See the [LICENSE](LICENSE) file for details.
